@@ -28,6 +28,3 @@ The app uses the following modules:
 - [react-native-text-detector](https://github.com/zsajjad/react-native-text-detector) to extract text from the scanned receipts and store them in a local database using AsyncStorage.
 - [react-native-charts-wrapper](https://github.com/wuxudong/react-native-charts-wrapper) to display charts and graphs of the user’s spending habits and budget.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
