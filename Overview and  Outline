@@ -1,0 +1,17 @@
+Overview:
+-	The app will be called Receipt Scanner, and it will be a cross-platform mobile app developed using React Native framework.
+-	The app will use expo-camera module to access the phone camera and scan receipts.
+-	The app will use react-native-text-detector module to extract text from the scanned receipts and store them in a local database using AsyncStorage.
+-	The app will use react-native-charts-wrapper module to display charts and graphs of the user’s spending habits and budget.
+-	The app will have a simple and user-friendly interface that will allow users to easily scan, view, edit, and delete their receipts.
+Outline:
+-	The app will have three main screens: Home, History, and Settings.
+-	The Home screen will have a camera button that will open the camera and allow the user to scan a receipt. The scanned receipt will be processed and saved in the database. The Home screen will also show the total amount spent and the remaining budget for the current month.
+-	The History screen will show a list of all the receipts scanned by the user. The user can tap on a receipt to view its details, such as date, time, store name, items, and amount. The user can also edit or delete a receipt from the list. The History screen will also have a filter option that will allow the user to filter the receipts by date, store, or category.
+-	The Settings screen will allow the user to customize the app’s preferences, such as currency, budget, and categories. The user can also enable or disable notifications and feedback options.
+
+My Milestone 1
+I put overview and outline is pushed on github, also my start code is on GitHub repository. 
+
+Organized 
+Setting up to start and learning UI software framework for React Native and learning  new language for the platform
