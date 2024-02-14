@@ -1,5 +1,5 @@
 
-# Receipt Scanner (The "new" use the new branch)
+# Receipt Scanner (The new use the "new" branch)
 
 Receipt Scanner is a cross-platform mobile app that allows you to scan your receipts and track your spending habits and budget. It is developed using React Native framework and uses various modules to access the camera, extract text, store data, and display charts.
 
